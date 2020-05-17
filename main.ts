@@ -132,7 +132,7 @@ let TEXT = sprites.create(img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `, SpriteKind.Player)
-TEXT.say("You need hearts, he needs your heart...", 5002)
+TEXT.say("You need hearts, he needs your heart...", 5000)
 mySprite = sprites.create(img`
 . . . . . . f f f f . . . . . . 
 . . . . f f f 2 2 f f f . . . . 
